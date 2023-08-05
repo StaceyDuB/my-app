@@ -1,7 +1,7 @@
 #import streamlit as st
 #st.title('🎈 App Name')
 #st.write('Hello world!')
-!pip install --upgrade streamlit
+!pip install streamlit
 !pip install langchain
 !pip install openai
 !pip install streamlit
