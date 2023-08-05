@@ -1,11 +1,11 @@
 #import streamlit as st
 #st.title('🎈 App Name')
 #st.write('Hello world!')
-!pip install streamlit
-!pip install langchain
-!pip install openai
-!pip install streamlit
-!pip install tiktoken
+#!pip install streamlit
+#!pip install langchain
+#!pip install openai
+#!pip install streamlit
+#!pip install tiktoken
 import streamlit as st
 from langchain.llms import OpenAI
 from langchain import PromptTemplate
